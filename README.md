@@ -4,7 +4,7 @@ i = baris,
 j = kolom.
 
 Langkah - Langkah:
-1) Tentukan banyak baris.
+1) Tentukan banyak baris (i).
 2) Tentukan syntax apa yang dipakai untuk loopingnya (saya menggunakan syntax for)
 3) dari pola yang akan saya buat (0,4,M) terdiri dari 3 bagian yaitu pertama "0", kedua "4", dan ketiga "M"
 4) Sebelum masuk ke penjelasan syntax saya ingin mengingatkan bahwa semua pola yang saya buat bentuk awalnya adalah persegi/kotak yang setelahnya akan dimodifikasi menggunakan "if"
