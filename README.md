@@ -1,4 +1,4 @@
-# TAPDTI-Micu
+# Logika Pemrograman
 NOTE:
 i = baris,
 j = kolom.
